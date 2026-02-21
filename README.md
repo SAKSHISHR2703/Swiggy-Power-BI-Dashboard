@@ -94,7 +94,7 @@ This Power BI project analyzes Swiggy's food delivery operations across Indian c
 ```
 Swiggy-PowerBI/
 │
-├── SWIGGY.pbix              # Main Power BI file
+├──  [Click to Download SWIGGY Dashboard](https://drive.google.com/file/d/1tQafVmaAffLT1mIzBPYjXb0HV_v2GMIC/view?usp=drive_link)          # Main Power BI file
 ├── README.md                # Project documentation
 ├── data/
 │   ├── orders.csv
@@ -118,7 +118,12 @@ Swiggy-PowerBI/
 5. Toggle between **Amount** and **Quantity** views in the Overview page
 
 ---
+## 📊 SWIGGY Power BI Dashboard
 
+Due to GitHub file size limits, the .pbix file is hosted externally.
+
+🔗 Download the Power BI file here:  
+[Click to Download SWIGGY Dashboard](https://drive.google.com/file/d/1tQafVmaAffLT1mIzBPYjXb0HV_v2GMIC/view?usp=drive_link)
 ## 👤 Author
 
 **Sakshi Sharma**  
